@@ -1,0 +1,19 @@
+{
+  "name": "taskexp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  },
+  "dependencies": {
+    "get-ssl-certificate": "^2.3.3"
+  }
+}

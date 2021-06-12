@@ -1,0 +1,9 @@
+{
+  "projectId": "ixdhhk",
+  "chromeWebSecurity": false,
+    "redirectionLimit":10000,
+  
+    "viewportWidth": 1024,
+    "viewportHeight": 768
+    
+}
